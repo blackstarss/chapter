@@ -26,6 +26,7 @@
     echo $ojiichan;
     echo 'ここからは第三部';
     echo
+
     
     echo '<br>';
     $jojo = '空条承太郎'
